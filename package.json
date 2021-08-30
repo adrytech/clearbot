@@ -1,0 +1,11 @@
+{
+  "name": "clearbot",
+  "version": "1.0.0",
+  "description": "ClearBot By _AdryTech_",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "_AdryTech_",
+  "license": "ISC"
+}
